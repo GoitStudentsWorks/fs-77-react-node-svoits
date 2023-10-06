@@ -10,5 +10,5 @@ export default defineConfig({
       components: '/src/components',
     },
   },
-  base: '/drink-master-frontend/',
+  base: '/fs-77-react-node-svoits/',
 });
